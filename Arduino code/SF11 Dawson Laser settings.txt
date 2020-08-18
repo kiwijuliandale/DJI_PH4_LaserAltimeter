@@ -1,0 +1,99 @@
+     b: Zero datum offset ........ 0.00 m
+     c: Measuring mode ........... long range
+  ------------------------------------
+  d: Hide communication menu
+     e: Serial port baud rate..... 19200
+     f: Serial output mode........ continuous
+     g: I2C bus address........... 0x55
+     s: Pixhawk I2C compatability. on
+  ------------------------------------
+  h: Show analog and alarm menu
+  ------------------------------------
+  m: Show filter menu
+  ------------------------------------
+  s: Show advanced menu
+  ------------------------------------
+
+
+     *** SF11/C V9 Firmware: V1.5.0 ***
+            Serial: S11-16588
+
+  ------------------------------------
+  a: Hide system menu
+     b: Zero datum offset ........ 0.00 m
+     c: Measuring mode ........... long range
+  ------------------------------------
+  d: Hide communication menu
+     e: Serial port baud rate..... 19200
+     f: Serial output mode........ continuous
+     g: I2C bus address........... 0x55
+     s: Pixhawk I2C compatability. on
+  ------------------------------------
+  h: Hide analog and alarm menu
+     i: Linear analog output...... 0.00 m to 25.00 m = 0.00 V to 2.048 V
+     j: Analog distance range..... 0.00 m to 25.00 m
+     k: Analog voltage range...... 0.00 V to 2.048 V
+  ------------------------------------
+  m: Show filter menu
+  ------------------------------------
+  s: Show advanced menu
+  ------------------------------------
+
+
+     *** SF11/C V9 Firmware: V1.5.0 ***
+            Serial: S11-16588
+
+  ------------------------------------
+  a: Hide system menu
+     b: Zero datum offset ........ 0.00 m
+     c: Measuring mode ........... long range
+  ------------------------------------
+  d: Hide communication menu
+     e: Serial port baud rate..... 19200
+     f: Serial output mode........ continuous
+     g: I2C bus address........... 0x55
+     s: Pixhawk I2C compatability. on
+  ------------------------------------
+  h: Hide analog and alarm menu
+     i: Linear analog output...... 0.00 m to 25.00 m = 0.00 V to 2.048 V
+     j: Analog distance range..... 0.00 m to 25.00 m
+     k: Analog voltage range...... 0.00 V to 2.048 V
+  ------------------------------------
+  m: Hide filter menu
+     n: Output on lost signal..... 130.00 m
+        p: Confirm lost signal.... 1.0 seconds
+     q: Median filter............. on
+        r: Median filter size..... 16 results
+  ------------------------------------
+  s: Show advanced menu
+  ------------------------------------
+
+
+     *** SF11/C V9 Firmware: V1.5.0 ***
+            Serial: S11-16588
+
+  ------------------------------------
+  a: Hide system menu
+     b: Zero datum offset ........ 0.00 m
+     c: Measuring mode ........... long range
+  ------------------------------------
+  d: Hide communication menu
+     e: Serial port baud rate..... 19200
+     f: Serial output mode........ continuous
+     g: I2C bus address........... 0x55
+     s: Pixhawk I2C compatability. on
+  ------------------------------------
+  h: Hide analog and alarm menu
+     i: Linear analog output...... 0.00 m to 25.00 m = 0.00 V to 2.048 V
+     j: Analog distance range..... 0.00 m to 25.00 m
+     k: Analog voltage range...... 0.00 V to 2.048 V
+  ------------------------------------
+  m: Hide filter menu
+     n: Output on lost signal..... 130.00 m
+        p: Confirm lost signal.... 1.0 seconds
+     q: Median filter............. on
+        r: Median filter size..... 16 results
+  ------------------------------------
+  s: Hide advanced menu
+        t: Sensitivity offset..... 0
+  ------------------------------------
