@@ -2,7 +2,7 @@
 
  DJI Phantom 3/4 laser altimeter installation
  
-**WARNING** Modifying the DJI will void any warranties and could damage the aircraft. Only perform thses modifications if you have adequate technical skilles to 
+**WARNING** Modifying the DJI will void any warranties and could damage the aircraft. Only perform thses modifications if you have adequate technical skills to 
 perform the modifications.
 
 **Disclaimer** 
