@@ -17,7 +17,7 @@ Under no circumstance shall we have any liability to you for any loss or damage 
 About the information included:
 
 >I have included a tutorial video on how to install the power feed from the DJI battery. (By no means my best work but should provide the necessary information!!)
-This allows for the laser to power from the aircraft and will automatically start when the aircraft powers up. This saves weight and the risk of a separate power supply going flat. If you feel at all uncomfortable disassembling your aircraft, then use an external USB power bank or small LiPo battery. Please find the video tutorial here https://vimeo.com/451298704 
+This allows the laser to power from the aircraft and will automatically start when the aircraft powers up. This saves weight and the risk of a separate power supply going flat. If you feel at all uncomfortable disassembling your aircraft, then use an external USB power bank or small LiPo battery. Please find the video tutorial here https://vimeo.com/451298704 
 
 There are three folders containing ;
 
